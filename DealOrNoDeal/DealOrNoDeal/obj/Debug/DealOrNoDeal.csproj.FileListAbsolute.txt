@@ -1,0 +1,11 @@
+C:\Users\jason\Desktop\DealOrNoDeal\DealOrNoDeal\bin\Debug\DealOrNoDeal.exe.config
+C:\Users\jason\Desktop\DealOrNoDeal\DealOrNoDeal\bin\Debug\DealOrNoDeal.exe
+C:\Users\jason\Desktop\DealOrNoDeal\DealOrNoDeal\bin\Debug\DealOrNoDeal.pdb
+C:\Users\jason\Desktop\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.csprojAssemblyReference.cache
+C:\Users\jason\Desktop\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.frmGameState.resources
+C:\Users\jason\Desktop\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.frmMainMenu.resources
+C:\Users\jason\Desktop\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.Properties.Resources.resources
+C:\Users\jason\Desktop\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.csproj.GenerateResource.cache
+C:\Users\jason\Desktop\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.exe
+C:\Users\jason\Desktop\DealOrNoDeal\DealOrNoDeal\obj\Debug\DealOrNoDeal.pdb
